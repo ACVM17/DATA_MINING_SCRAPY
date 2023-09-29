@@ -6,6 +6,6 @@
 
 ## Indicaciones
 
-Para ejecutar el proyecto es: **scrapy crawl mercado -t csv**
+Para ejecutar el proyecto en tu cmd es: **scrapy crawl mercado -t csv**
 
 *Almir Vargas*
