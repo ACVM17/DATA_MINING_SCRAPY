@@ -1,3 +1,11 @@
 # DATA_MINING_SCRAPY
- Nota: Es un trabajo educativo
-## Se trata de una extracción de datos de la pagina de MercadoLibre PERÚ
+
+## Extracción de datos de la página de Mercado Libre PERÚ
+
+**Este proyecto es solo de manera de práctica, sin otros motivos ocultos.**
+
+## Indicaciones
+
+Para ejecutar el proyecto es: **scrapy crawl mercado -t csv**
+
+*Almir Vargas*
