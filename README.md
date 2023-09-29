@@ -2,7 +2,7 @@
 
 ## Extracción de datos de la página de Mercado Libre PERÚ
 
-**Este proyecto es solo de manera de práctica, sin otros motivos ocultos.**
+**Nota: Este proyecto es solo de manera de práctica, sin otros motivos ocultos.**
 
 ## Indicaciones
 
