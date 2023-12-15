@@ -7,5 +7,3 @@
 ## Indicaciones
 
 Para ejecutar el proyecto en tu cmd es: **scrapy crawl mercado -t csv**
-
-*Almir Vargas*
